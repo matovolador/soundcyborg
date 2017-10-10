@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.soundcyborg.com/</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.soundcyborg.com/musica</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.soundcyborg.com/buscar</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.soundcyborg.com/arte</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.soundcyborg.com/contacto</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.soundcyborg.com/login</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.soundcyborg.com/terminos-de-uso</loc>
+  <changefreq>monthly</changefreq>
+</url>
+</urlset>
